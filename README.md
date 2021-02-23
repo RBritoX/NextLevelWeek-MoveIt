@@ -55,7 +55,7 @@ The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace 
 
 ## 📚 The Project:
 
-...
+![image](https://user-images.githubusercontent.com/34657005/108902912-6fed5d00-75fb-11eb-941a-5e7dd49234d9.png)
 
 ## 🛠 Technologies
 
@@ -70,14 +70,11 @@ Clone the project: `git clone https://github.com/RBritoX/NextLevelWeek-Booster-P
 🖥 To run the **Front-End**, in another terminal tab, execute the following commands:
 
 ```zsh
-# to enter the Front-End folder
-$ cd frontend
-
 # to download the dependencies
 $ yarn
 
 # to start the application on port 3000
-$ yarn start
+$ yarn dev
 ```
 
 Now access `http://localhost:3000/`
