@@ -42,10 +42,10 @@
 
 ## 🚀 Next Level Week 4
 
-The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace the Omnistack Week, following better for all audiences.
+The Next Level Week of [RocketSeat](https://rocketseat.com.br/).
 
 **🎓&nbsp; Instructor: [Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)**<br>
-**✍🏼&nbsp; Layout: [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
+**✍🏼&nbsp; Designer: [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
 
 - [x] **22/02/2021** - Towards the next level
 - [x] **23/02/2021** - Unraveling Next.js
@@ -65,7 +65,7 @@ The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace 
 
 ## 🏁 Starting the project
 
-Clone the project: `git clone https://github.com/RBritoX/NextLevelWeek-Booster-Proffy`
+Clone the project: `git clone https://github.com/RBritoX/NextLevelWeek-MoveIt.git`
 
 🖥 To run the **Front-End**, in another terminal tab, execute the following commands:
 
