@@ -34,10 +34,6 @@
 
 <br>
 
-<h3 align="center">
-  🚧 In Construction 🚧
-</h3>
-
 <br>
 
 ## 🚀 Next Level Week 4
