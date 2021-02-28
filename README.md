@@ -49,9 +49,9 @@ The Next Level Week of [RocketSeat](https://rocketseat.com.br/).
 
 - [x] **22/02/2021** - Towards the next level
 - [x] **23/02/2021** - Unraveling Next.js
-- [ ] **24/02/2021** - Context and components
-- [ ] **25/02/2021** - Storage, SSR & Lambda
-- [ ] **26/02/2021** - Next level with React / Accelerating your career
+- [x] **24/02/2021** - Context and components
+- [x] **25/02/2021** - Storage, SSR & Lambda
+- [x] **26/02/2021** - Next level with React
 
 ## 📚 The Project:
 

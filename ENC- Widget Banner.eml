@@ -1,0 +1,588 @@
+MIME-Version: 1.0
+Date: Fri, 19 Feb 2021 09:15:35 -0300
+From: Guilherme Augusto Codignolle Souza <guilherme.souza@opah.com.br>
+Subject: ENC: Widget Banner
+Thread-Topic: Widget Banner
+Message-ID:
+ <FR1P152MB2956348163A4D39A094820ACA1849@FR1P152MB2956.LAMP152.PROD.OUTLOOK.COM>
+To: Luiz Felipe Gualberto <luiz.gualberto@opah.com.br>, 
+	"joao.filismino@inmetrics.com.br" <joao.filismino@inmetrics.com.br>, 
+	"fagner.pires@aisdigital.com.br" <fagner.pires@aisdigital.com.br>, 
+	Raphael Brito <raphael.brito@opah.com.br>, 
+	Leonardo Pacciulli <leonardo.pacciulli@opah.com.br>, 
+	Boanerges Souza do Nascimento
+	 <boanerges.nascimento@compasso.com.br>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"><!--=
+[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Arial Narrow";}
+@font-face
+	{font-family:"Segoe UI Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+p.xmsonormal, li.xmsonormal, div.xmsonormal
+	{mso-style-name:x_msonormal;
+	margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EstiloDeEmail24
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1073696082;
+	mso-list-template-ids:16050066;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1445267312;
+	mso-list-template-ids:683708554;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1835410120;
+	mso-list-template-ids:833807682;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3D"PT-BR" link=3D"blue"=
+ vlink=3D"purple" style=3D"word-wrap:break-word"><div class=3D"WordSection1=
+"><p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US">PSC<o:p=
+></o:p></span></p><p class=3D"MsoNormal"><span style=3D"mso-fareast-languag=
+e:EN-US"><o:p>&nbsp;</o:p></span></p><div><div style=3D"border:none;border-=
+top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><=
+b>De:</b> Caie Turra Araujo &lt;caie.araujo@livelo.com.br&gt; <br><b>Enviad=
+a em:</b> quinta-feira, 18 de fevereiro de 2021 15:55<br><b>Para:</b> Guilh=
+erme Augusto Codignolle Souza &lt;guilherme.souza@opah.com.br&gt;<br><b>Cc:=
+</b> Franciele Zampieri &lt;franciele.zampieri@livelo.com.br&gt;; Thalitta =
+Cristine Corona &lt;thalitta.corona@livelo.com.br&gt;<br><b>Assunto:</b> RE=
+: Widget Banner<o:p></o:p></p></div></div><p class=3D"MsoNormal"><o:p>&nbsp=
+;</o:p></p><div><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;colo=
+r:black">Ol=C3=A1! Segue as respostas<o:p></o:p></span></p></div><div><p cl=
+ass=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:black"><o:p>&nbsp;<=
+/o:p></span></p></div><div><p style=3D"background:white"><span style=3D"fon=
+t-family:&quot;Arial&quot;,sans-serif;color:black">Defini=C3=A7=C3=A3o se i=
+nput 1 e input 3 v=C3=A3o estar em negrito<br>input 1 (n=C3=A3o), input 3 (=
+em alguns momentos sim)</span><span style=3D"color:black"><o:p></o:p></span=
+></p><p style=3D"background:white"><span style=3D"color:black">N=C3=A3o da =
+pra deixar em alguns momentos, ou ser=C3=A1 tudo em negrito ou tudo normal.=
+<o:p></o:p></span></p><p style=3D"background:white"><b><span style=3D"color=
+:black">&nbsp;Sem negrito</span></b><span style=3D"color:black"><o:p></o:p>=
+</span></p><p style=3D"background:white"><span style=3D"color:black">&nbsp;=
+<o:p></o:p></span></p><p style=3D"background:white"><span style=3D"font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:black">Qual limite de caracteres da =
+tag?<br><b>8</b></span><span style=3D"color:black"><o:p></o:p></span></p><p=
+ style=3D"background:white"><span style=3D"color:black">A tag vai ter mais =
+caracteres que os inputs? Vai quebrar o layout com essa quantidade de carac=
+teres<o:p></o:p></span></p><p style=3D"background:white"><b><span style=3D"=
+color:black">&nbsp;N=C3=A3o. Limite de 8 caracteres</span></b><span style=
+=3D"color:black"><o:p></o:p></span></p><p style=3D"background:white"><span =
+style=3D"color:black">&nbsp;<o:p></o:p></span></p><p style=3D"background:wh=
+ite"><span style=3D"color:black">Com rela=C3=A7=C3=A3o =C3=A0s cores, havia=
+m dito que teriam outras op=C3=A7=C3=B5es, n=C3=A3o ter=C3=A1 mais? Ser=C3=
+=A1 somente as que tem no invision, hoje?<br><b>Sim. Mas pode haver outras =
+em futuras vers=C3=B5es</b><o:p></o:p></span></p><p style=3D"background:whi=
+te"><span style=3D"color:black">&nbsp;<o:p></o:p></span></p><p style=3D"bac=
+kground:white"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;colo=
+r:black">Quais as op=C3=A7=C3=B5es de cor a serem pr=C3=A9-setadas para a s=
+eta a direita?<br>Branco, no prot=C3=B3tipo est=C3=A1 rosa, mas pode seguir=
+ com o Branco por conta da acessibilidade</span><span style=3D"color:black"=
+><o:p></o:p></span></p><p style=3D"background:white"><span style=3D"color:b=
+lack">No caso do background ser o branco qual vai ser a cor?<o:p></o:p></sp=
+an></p><p style=3D"background:white"><b><span style=3D"color:black">Rosa</s=
+pan></b><span style=3D"color:black"><o:p></o:p></span></p><p style=3D"backg=
+round:white"><span style=3D"color:black">&nbsp;<o:p></o:p></span></p><p cla=
+ss=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:black"><o:p>&nbsp;</=
+o:p></span></p></div><div class=3D"MsoNormal" align=3D"center" style=3D"tex=
+t-align:center"><hr size=3D"2" width=3D"98%" align=3D"center"></div><div id=
+=3D"divRplyFwdMsg"><p class=3D"MsoNormal"><b><span style=3D"color:black">De=
+:</span></b><span style=3D"color:black"> Guilherme Augusto Codignolle Souza=
+ &lt;<a href=3D"mailto:guilherme.souza@opah.com.br">guilherme.souza@opah.co=
+m.br</a>&gt;<br><b>Enviado:</b> quinta-feira, 18 de fevereiro de 2021 14:58=
+<br><b>Para:</b> Caie Turra Araujo &lt;<a href=3D"mailto:caie.araujo@livelo=
+.com.br">caie.araujo@livelo.com.br</a>&gt;<br><b>Cc:</b> Franciele Zampieri=
+ &lt;<a href=3D"mailto:franciele.zampieri@livelo.com.br">franciele.zampieri=
+@livelo.com.br</a>&gt;; Thalitta Cristine Corona &lt;<a href=3D"mailto:thal=
+itta.corona@livelo.com.br">thalitta.corona@livelo.com.br</a>&gt;<br><b>Assu=
+nto:</b> ENC: Widget Banner</span> <o:p></o:p></p><div><p class=3D"MsoNorma=
+l">&nbsp;<o:p></o:p></p></div></div><div><div><p class=3D"xmsonormal">Oi Ca=
+ie, td bem? Por favor, vc consegue me dar um retorno sobre os pontos abaixo=
+?<o:p></o:p></p><p class=3D"xmsonormal">&nbsp;<o:p></o:p></p><div><div styl=
+e=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm">=
+<p class=3D"xmsonormal"><b>De:</b> Raphael Brito &lt;<a href=3D"mailto:raph=
+ael.brito@opah.com.br">raphael.brito@opah.com.br</a>&gt; <br><b>Enviada em:=
+</b> quinta-feira, 18 de fevereiro de 2021 14:56<br><b>Para:</b> Guilherme =
+Augusto Codignolle Souza &lt;<a href=3D"mailto:guilherme.souza@opah.com.br"=
+>guilherme.souza@opah.com.br</a>&gt;; Luiz Felipe Gualberto &lt;<a href=3D"=
+mailto:luiz.gualberto@opah.com.br">luiz.gualberto@opah.com.br</a>&gt;; Leon=
+ardo Pacciulli &lt;<a href=3D"mailto:leonardo.pacciulli@opah.com.br">leonar=
+do.pacciulli@opah.com.br</a>&gt;; <a href=3D"mailto:joao.filismino@inmetric=
+s.com.br">joao.filismino@inmetrics.com.br</a>; <a href=3D"mailto:fagner.pir=
+es@aisdigital.com.br">fagner.pires@aisdigital.com.br</a><br><b>Assunto:</b>=
+ Re: Widget Banner<o:p></o:p></p></div></div><p class=3D"xmsonormal">&nbsp;=
+<o:p></o:p></p><p class=3D"xmsonormal" style=3D"margin-bottom:12.0pt">Ol=C3=
+=A1, tem alguns pontos ainda<br><br><span style=3D"font-family:&quot;Arial&=
+quot;,sans-serif;color:black">Defini=C3=A7=C3=A3o se input 1 e input 3 v=C3=
+=A3o estar em negrito<br>input 1 (n=C3=A3o), input 3 (em alguns momentos si=
+m)</span><o:p></o:p></p><p class=3D"xmsonormal">N=C3=A3o da pra deixar em a=
+lguns momentos, ou ser=C3=A1 tudo em negrito ou tudo normal.<o:p></o:p></p>=
+<p class=3D"xmsonormal">&nbsp;<o:p></o:p></p><p class=3D"xmsonormal">&nbsp;=
+<o:p></o:p></p><p class=3D"xmsonormal" style=3D"margin-bottom:12.0pt"><span=
+ style=3D"font-family:&quot;Arial&quot;,sans-serif;color:black">Qual limite=
+ de caracteres da tag?<br>102</span><o:p></o:p></p><p class=3D"xmsonormal">=
+A tag vai ter mais caracteres que os inputs? Vai quebrar o layout com essa =
+quantidade de caracteres<o:p></o:p></p><p class=3D"xmsonormal">&nbsp;<o:p><=
+/o:p></p><p class=3D"xmsonormal">&nbsp;<o:p></o:p></p><p class=3D"xmsonorma=
+l">Com rela=C3=A7=C3=A3o =C3=A0s cores, haviam dito que teriam outras op=C3=
+=A7=C3=B5es, n=C3=A3o ter=C3=A1 mais? Ser=C3=A1 somente as que tem no invis=
+ion, hoje?<o:p></o:p></p><p class=3D"xmsonormal">&nbsp;<o:p></o:p></p><p cl=
+ass=3D"xmsonormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-famil=
+y:&quot;Arial&quot;,sans-serif;color:black">Quais as op=C3=A7=C3=B5es de co=
+r a serem pr=C3=A9-setadas para a seta a direita?<br>Branco, no prot=C3=B3t=
+ipo est=C3=A1 rosa, mas pode seguir com o Branco por conta da acessibilidad=
+e</span><o:p></o:p></p><p class=3D"xmsonormal">No caso do background ser o =
+branco qual vai ser a cor? <o:p></o:p></p><p class=3D"xmsonormal">&nbsp;<o:=
+p></o:p></p><p class=3D"xmsonormal">&nbsp;<o:p></o:p></p><div style=3D"bord=
+er:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=
+=3D"xmsonormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"font-size:=
+12.0pt;color:black">De: </span></b><span style=3D"font-size:12.0pt;color:bl=
+ack">Guilherme Augusto Codignolle Souza &lt;<a href=3D"mailto:guilherme.sou=
+za@opah.com.br">guilherme.souza@opah.com.br</a>&gt;<br><b>Data: </b>quarta-=
+feira, 17 de fevereiro de 2021 21:41<br><b>Para: </b>Raphael Brito &lt;<a h=
+ref=3D"mailto:raphael.brito@opah.com.br">raphael.brito@opah.com.br</a>&gt;,=
+ Luiz Felipe Gualberto &lt;<a href=3D"mailto:luiz.gualberto@opah.com.br">lu=
+iz.gualberto@opah.com.br</a>&gt;, Leonardo Pacciulli &lt;<a href=3D"mailto:=
+leonardo.pacciulli@opah.com.br">leonardo.pacciulli@opah.com.br</a>&gt;, <a =
+href=3D"mailto:joao.filismino@inmetrics.com.br">joao.filismino@inmetrics.co=
+m.br</a> &lt;<a href=3D"mailto:joao.filismino@inmetrics.com.br">joao.filism=
+ino@inmetrics.com.br</a>&gt;, <a href=3D"mailto:fagner.pires@aisdigital.com=
+.br">fagner.pires@aisdigital.com.br</a> &lt;<a href=3D"mailto:fagner.pires@=
+aisdigital.com.br">fagner.pires@aisdigital.com.br</a>&gt;<br><b>Assunto: </=
+b>ENC: Widget Banner</span><o:p></o:p></p></div><p class=3D"xmsonormal">Oi =
+time, td certo? =C3=89 suficiente para colocarmos dentro da sprint?<o:p></o=
+:p></p><p class=3D"xmsonormal">&nbsp;<o:p></o:p></p><div><div style=3D"bord=
+er:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=
+=3D"xmsonormal"><b>De:</b> Caie Turra Araujo &lt;<a href=3D"mailto:caie.ara=
+ujo@livelo.com.br">caie.araujo@livelo.com.br</a>&gt; <br><b>Enviada em:</b>=
+ quarta-feira, 10 de fevereiro de 2021 18:28<br><b>Para:</b> Guilherme Augu=
+sto Codignolle Souza &lt;<a href=3D"mailto:guilherme.souza@opah.com.br">gui=
+lherme.souza@opah.com.br</a>&gt;; Thalitta Cristine Corona &lt;<a href=3D"m=
+ailto:thalitta.corona@livelo.com.br">thalitta.corona@livelo.com.br</a>&gt;<=
+br><b>Assunto:</b> Widget Banner<o:p></o:p></p></div></div><p class=3D"xmso=
+normal">&nbsp;<o:p></o:p></p><div><p class=3D"xmsonormal"><span style=3D"fo=
+nt-size:12.0pt;color:black">Ol=C3=A1!</span><o:p></o:p></p></div><div><p cl=
+ass=3D"xmsonormal"><span style=3D"font-size:12.0pt;color:black">&nbsp;</spa=
+n><o:p></o:p></p></div><div><p class=3D"xmsonormal"><span style=3D"font-siz=
+e:12.0pt;color:black">Respondendo algumas perguntas sobre Widget Banner, te=
+ntei abrir o arquivo no Sketch mas acabei n=C3=A3o encontrando, somente o i=
+nvision. Da para seguir as altera=C3=A7=C3=B5es por ele, se algo estiver fo=
+ra ou n=C3=A3o foi respondido corretamente favor me avisem.</span><o:p></o:=
+p></p></div><div><p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;co=
+lor:black">&nbsp;</span><o:p></o:p></p></div><div><p class=3D"xmsonormal"><=
+span style=3D"font-size:12.0pt;color:black">Link do invision&nbsp;<a href=
+=3D"https://livelobr.invisionapp.com/console/share/H41ZPA4C56">https://live=
+lobr.invisionapp.com/console/share/H41ZPA4C56</a></span><o:p></o:p></p></di=
+v><div><div style=3D"margin-top:12.0pt;margin-bottom:12.0pt;min-width:424px=
+" id=3D"LPBorder_GTaHR0cHM6Ly9saXZlbG9ici5pbnZpc2lvbmFwcC5jb20vY29uc29sZS9z=
+aGFyZS9INDFaUEE0QzU2"><table class=3D"MsoNormalTable" border=3D"1" cellpadd=
+ing=3D"0" width=3D"100%" style=3D"width:100.0%;border:solid #C8C8C8 1.0pt">=
+<tbody><tr><td valign=3D"top" style=3D"border:none;padding:9.0pt 27.0pt 9.0=
+pt 9.0pt"><div style=3D"margin-right:9.0pt;overflow:hidden" id=3D"LPImageCo=
+ntainer662242"><p class=3D"xmsonormal"><a href=3D"https://livelobr.invision=
+app.com/console/share/H41ZPA4C56" target=3D"_blank"><span style=3D"text-dec=
+oration:none"><img border=3D"0" width=3D"75" height=3D"160" style=3D"width:=
+.7812in;height:1.6666in" id=3D"_x0000_i1026" src=3D"https://assets.v7-io.in=
+visionapp.com/assets/A_MGFjZjlkZDY2YjhlM2JmOeAi6pUNho8nxJkh8CQBIdDTabACr7PB=
+CwgjVG2bDueSM4pVSwIefJdStdnOuWE-yiSxoSwP7SAm1jpJPWH7Se7dR4oScnILfUEYUUgWH1s=
+v"></span></a><o:p></o:p></p></div></td><td width=3D"100%" valign=3D"top" s=
+tyle=3D"width:100.0%;border:none;padding:9.0pt 27.0pt 9.0pt 9.0pt"><div sty=
+le=3D"margin-right:6.0pt;margin-bottom:9.0pt" id=3D"LPTitle662242"><p class=
+=3D"xmsonormal"><span style=3D"font-size:16.0pt;font-family:&quot;Segoe UI =
+Light&quot;,sans-serif"><a href=3D"https://livelobr.invisionapp.com/console=
+/share/H41ZPA4C56" target=3D"_blank"><span style=3D"text-decoration:none">C=
+lick here to view prototype [APP] Widget Banner Promocional</span></a></spa=
+n><o:p></o:p></p></div><div style=3D"margin-right:6.0pt;margin-bottom:9.0pt=
+;max-height:100px;overflow:hidden" id=3D"LPDescription662242"><p class=3D"x=
+msonormal"><span style=3D"font-size:10.5pt;font-family:&quot;Segoe UI&quot;=
+,sans-serif;color:#666666">This prototype is brought to you by InVision</sp=
+an><o:p></o:p></p></div><div id=3D"LPMetadata662242"><p class=3D"xmsonormal=
+"><span style=3D"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-ser=
+if;color:#A6A6A6">livelobr.invisionapp.com</span><o:p></o:p></p></div></td>=
+</tr></tbody></table></div></div><div><p class=3D"xmsonormal" style=3D"marg=
+in-bottom:12.0pt"><o:p>&nbsp;</o:p></p><ul style=3D"margin-top:0cm" type=3D=
+"disc"><li class=3D"xmsonormal" style=3D"color:black;mso-list:l2 level1 lfo=
+1"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">Avaliar tag de =
+promo do lado esquerdo&nbsp;</span><o:p></o:p></li></ul><p style=3D"margin-=
+left:36.0pt"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:=
+black">Existe alguma orienta=C3=A7=C3=A3o sobre isso? Em nossos prot=C3=B3t=
+ipos est=C3=A3o para o lado direito e para usabilidade tamb=C3=A9m orientam=
+os no lado direito</span><o:p></o:p></p><p class=3D"xmsonormal" style=3D"ma=
+rgin-bottom:12.0pt"><o:p>&nbsp;</o:p></p><ul style=3D"margin-top:0cm" type=
+=3D"disc"><li class=3D"xmsonormal" style=3D"color:black;margin-bottom:12.0p=
+t;mso-list:l1 level1 lfo2"><span style=3D"font-family:&quot;Arial&quot;,san=
+s-serif">UX ir=C3=A1 avaliar unhappy path / cen=C3=A1rios alternativos<br>N=
+=C3=A3o nesse momento</span><o:p></o:p></li><li class=3D"xmsonormal" style=
+=3D"color:black;margin-bottom:12.0pt;mso-list:l1 level1 lfo2"><span style=
+=3D"font-family:&quot;Arial&quot;,sans-serif">Defini=C3=A7=C3=A3o se input =
+1 e input 3 v=C3=A3o estar em negrito<br>input 1 (n=C3=A3o), input 3 (em al=
+guns momentos sim)</span><o:p></o:p></li><li class=3D"xmsonormal" style=3D"=
+color:black;margin-bottom:12.0pt;mso-list:l1 level1 lfo2"><span style=3D"fo=
+nt-family:&quot;Arial&quot;,sans-serif">Qual limite caracteres do input 2 (=
+t=C3=ADtulo)?<br>21</span><o:p></o:p></li><li class=3D"xmsonormal" style=3D=
+"color:black;margin-bottom:12.0pt;mso-list:l1 level1 lfo2"><span style=3D"f=
+ont-family:&quot;Arial&quot;,sans-serif">Qual limite caracteres do input 1 =
+(cabe=C3=A7alho)?<br>35</span><o:p></o:p></li><li class=3D"xmsonormal" styl=
+e=3D"color:black;mso-list:l1 level1 lfo2"><span style=3D"font-family:&quot;=
+Arial&quot;,sans-serif">Definir orienta=C3=A7=C3=A3o de uso de imagens a es=
+querda (cores, redimensionamentos, etc)</span><o:p></o:p></li></ul><p style=
+=3D"mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:12.0pt;margin-lef=
+t:36.0pt"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:bla=
+ck">Seguir padr=C3=A3o do invision</span><o:p></o:p></p><ul style=3D"margin=
+-top:0cm" type=3D"disc"><li class=3D"xmsonormal" style=3D"color:black;margi=
+n-bottom:12.0pt;mso-list:l0 level1 lfo3"><span style=3D"font-family:&quot;A=
+rial&quot;,sans-serif">Definir orienta=C3=A7=C3=A3o de uso de =C3=ADcones a=
+ esquerda (cores, redimensionamentos, etc)<br>Seguir padr=C3=A3o do invisio=
+n</span><o:p></o:p></li><li class=3D"xmsonormal" style=3D"color:black;mso-l=
+ist:l0 level1 lfo3"><span style=3D"font-family:&quot;Arial&quot;,sans-serif=
+">Incluir pagina=C3=A7=C3=A3o no template do carrossel.</span><o:p></o:p></=
+li><li class=3D"xmsonormal" style=3D"color:black;mso-list:l0 level1 lfo3"><=
+span style=3D"font-family:&quot;Arial&quot;,sans-serif">Definir limite de p=
+agina=C3=A7=C3=A3o que preserve template (sem quebrar linha)</span><o:p></o=
+:p></li><li class=3D"xmsonormal" style=3D"color:black;margin-bottom:12.0pt;=
+mso-list:l0 level1 lfo3"><span style=3D"font-family:&quot;Arial&quot;,sans-=
+serif">Qual limite de caracteres da tag?<br>102</span><o:p></o:p></li><li c=
+lass=3D"xmsonormal" style=3D"color:black;margin-bottom:12.0pt;mso-list:l0 l=
+evel1 lfo3"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">A posi=
+=C3=A7=C3=A3o da tag =C3=A9 fixa ou alternada entre esquerda e direita?<br>=
+Fixa</span><o:p></o:p></li><li class=3D"xmsonormal" style=3D"color:black;ma=
+rgin-bottom:12.0pt;mso-list:l0 level1 lfo3"><span style=3D"font-family:&quo=
+t;Arial&quot;,sans-serif">Quais as combina=C3=A7=C3=B5es de cores entre fun=
+do e fonte da tag a serem pre estabelecidas para sele=C3=A7=C3=A3o?<br>N=C3=
+=A3o sei se entendi bem, mas entendi que s=C3=B3 tem uma varia=C3=A7=C3=A3o=
+ que a que est=C3=A1 no prot=C3=B3tipo. Voc=C3=AAs est=C3=A3o prevendo algo=
+ quando estiver selecionado?</span><o:p></o:p></li><li class=3D"xmsonormal"=
+ style=3D"color:black;mso-list:l0 level1 lfo3"><span style=3D"font-family:&=
+quot;Arial&quot;,sans-serif">Quais as possibilidades de cores pr=C3=A9-esta=
+belecidas para fundo? No caso de gradiente, necess=C3=A1rio indicar dois he=
+xadecimais.<br>#282781&nbsp; e&nbsp; #ED047C</span><o:p></o:p></li><li clas=
+s=3D"xmsonormal" style=3D"color:black;margin-bottom:12.0pt;mso-list:l0 leve=
+l1 lfo3"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">Qual o es=
+tilo de gradiente? Ser=C3=A1 fixo e =C3=BAnico<br>Fixo como o do invision</=
+span><o:p></o:p></li><li class=3D"xmsonormal" style=3D"color:black;margin-b=
+ottom:12.0pt;mso-list:l0 level1 lfo3"><span style=3D"font-family:&quot;Aria=
+l&quot;,sans-serif">Quais as possibilidades de cores pr=C3=A9-estabelecidas=
+ para textos?<br>Branco e cinza (#BFBFBF)</span><o:p></o:p></li><li class=
+=3D"xmsonormal" style=3D"color:black;margin-bottom:12.0pt;mso-list:l0 level=
+1 lfo3"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">Quais as o=
+p=C3=A7=C3=B5es de cor a serem pr=C3=A9-setadas para a seta a direita?<br>B=
+ranco, no prot=C3=B3tipo est=C3=A1 rosa, mas pode seguir com o Branco por c=
+onta da acessibilidade</span><o:p></o:p></li><li class=3D"xmsonormal" style=
+=3D"color:black;margin-bottom:12.0pt;mso-list:l0 level1 lfo3"><span style=
+=3D"font-family:&quot;Arial&quot;,sans-serif">Definir orienta=C3=A7=C3=A3o =
+de uso de =C3=ADcones a direita, obrigat=C3=B3rios quando houver link (core=
+s, redimensionamentos, etc)<br>Sempre para a esquerda</span><o:p></o:p></li=
+></ul><p class=3D"xmsonormal"><span style=3D"font-family:&quot;Arial&quot;,=
+sans-serif;color:black">Qual a =C3=BAnica cor da linha divis=C3=B3ria<br>Br=
+anco e cinza (#BFBFBF) </span><o:p></o:p></p></div><p><span style=3D"font-s=
+ize:7.5pt;font-family:&quot;Arial Narrow&quot;,sans-serif;color:dimgray"><b=
+r><br>AVISO DE CONFIDENCIALIDADE<br>As informa=C3=A7=C3=B5es contidas neste=
+ e-mail s=C3=A3o de uso exclusivo de seus destinat=C3=A1rios e podem conter=
+ informa=C3=A7=C3=B5es privilegiadas ou confidenciais, de uso restrito e/ou=
+ legalmente protegida. Se voc=C3=AA recebeu esta mensagem por engano, n=C3=
+=A3o deve usar, copiar, alterar, divulgar, distribuir ou se beneficiar dest=
+as informa=C3=A7=C3=B5es. Solicitamos que voc=C3=AA informe o remetente sob=
+re ocorrido e elimine esta mensagem imediatamente. A Livelo se reserva o di=
+reito de pleitear ressarcimento pelos preju=C3=ADzos decorrentes do uso ind=
+evido das informa=C3=A7=C3=B5es e de requerer a aplica=C3=A7=C3=A3o das pen=
+alidades cab=C3=ADveis. <br><br>CONFIDENTIALITY WARNING<br>The information =
+contained in this e-mail is for the exclusive use of its recipients and may=
+ contain privileged or confidential information of restricted and / or lega=
+lly protected use. If you have received this message in error, you should n=
+ot use, copy, change , disclose, distribute or benefit from this informatio=
+n. We request that you inform the sender of the occurrence and immediately =
+delete this message. Livelo reserves the right to claim compensation for th=
+e damages resulting from the misuse of information and to request the appli=
+cation of applicable penalties. </span><o:p></o:p></p><p class=3D"xmsonorma=
+l">&nbsp;<o:p></o:p></p><p style=3D"margin:15.0pt"><span style=3D"font-size=
+:10.0pt;color:black">Internal</span><o:p></o:p></p></div><p class=3D"MsoNor=
+mal"><o:p>&nbsp;</o:p></p><p style=3D"margin:15.0pt"><span style=3D"font-si=
+ze:10.0pt;color:black">Internal<o:p></o:p></span></p></div><p><span style=
+=3D"font-size:7.5pt;font-family:&quot;Arial Narrow&quot;,sans-serif;color:d=
+imgray"><br><br>AVISO DE CONFIDENCIALIDADE<br>As informa=C3=A7=C3=B5es cont=
+idas neste e-mail s=C3=A3o de uso exclusivo de seus destinat=C3=A1rios e po=
+dem conter informa=C3=A7=C3=B5es privilegiadas ou confidenciais, de uso res=
+trito e/ou legalmente protegida. Se voc=C3=AA recebeu esta mensagem por eng=
+ano, n=C3=A3o deve usar, copiar, alterar, divulgar, distribuir ou se benefi=
+ciar destas informa=C3=A7=C3=B5es. Solicitamos que voc=C3=AA informe o reme=
+tente sobre ocorrido e elimine esta mensagem imediatamente. A Livelo se res=
+erva o direito de pleitear ressarcimento pelos preju=C3=ADzos decorrentes d=
+o uso indevido das informa=C3=A7=C3=B5es e de requerer a aplica=C3=A7=C3=A3=
+o das penalidades cab=C3=ADveis. <br><br>CONFIDENTIALITY WARNING<br>The inf=
+ormation contained in this e-mail is for the exclusive use of its recipient=
+s and may contain privileged or confidential information of restricted and =
+/ or legally protected use. If you have received this message in error, you=
+ should not use, copy, change , disclose, distribute or benefit from this i=
+nformation. We request that you inform the sender of the occurrence and imm=
+ediately delete this message. Livelo reserves the right to claim compensati=
+on for the damages resulting from the misuse of information and to request =
+the application of applicable penalties. </span><o:p></o:p></p><p class=3D"=
+MsoNormal"><o:p>&nbsp;</o:p></p><p style=3D"margin:15.0pt"><span style=3D"f=
+ont-size:10.0pt;color:black">Internal<o:p></o:p></span></p></div></body></h=
+tml>=
